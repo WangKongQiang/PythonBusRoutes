@@ -8,3 +8,8 @@ gitcode 开源数据包：https://gitcode.com/open-source-toolkit/b0066?utm_sour
 CSDN 博客: https://blog.csdn.net/gitblog_09794/article/details/143011043
 ### ArcGIS10.8安装教程
 softgj: https://mp.weixin.qq.com/s/yEiNLIafPV_E9Rt0vYQQTQ
+### Model Architecture
+
+![Model Architecture](Overall_project_framework_diagram.png)
+
+*Figure 1. The overall architecture of the proposed model.*
